@@ -50,7 +50,8 @@ let resumeData = {
       specialization: "Teaching Assistant",
       MonthOfLeaving: "Present",
       YearOfLeaving: "",
-      Achievements: "Some Achievements"
+      Achievements:
+        "https://drive.google.com/file/d/1WgH9EfoNiwT8jR6npRw-E2JH_R-hC9RZ/view?usp=sharing"
     },
     {
       CompanyName: "InstaStaff",
