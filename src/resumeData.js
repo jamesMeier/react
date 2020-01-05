@@ -120,21 +120,21 @@ let resumeData = {
     {
       description:
         "Diligent, works off the clock puts the company needs before his own",
-      name: "Jacob Lamont - Trilogy Lead Instructor"
+      name: " Jacob Lamont - Trilogy Lead Instructor"
     },
     {
       description:
         "Can be held accountable for all tasks, a very reliable developer",
-      name: "Cherie Kloss - CEO Instastaff"
+      name: " Cherie Kloss - CEO Instastaff"
     },
     {
       description: "Attendant and detailed with his work",
-      name: "Jeff Richards  - COO SnapMedTech"
+      name: " Jeff Richards  - COO SnapMedTech"
     },
     {
       description:
         "An excellent resource for the students and his peers in around the classroom",
-      name: "Jack Storrs - Trilogy Instructor"
+      name: " Jack Storrs - Trilogy Instructor"
     }
   ]
 };
