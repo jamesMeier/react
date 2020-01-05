@@ -46,10 +46,10 @@ let resumeData = {
   ],
   work: [
     {
-      CompanyName: "Trilogy Education Services",
+      CompanyName: "Georgia Tech / Trilogy Education Services",
       specialization: "Teaching Assistant",
       MonthOfLeaving: "Present",
-      YearOfLeaving: "Present",
+      YearOfLeaving: "",
       Achievements: "Some Achievements"
     },
     {
@@ -107,19 +107,33 @@ let resumeData = {
       github: "https://github.com/jamesMeier/fbaseAuth"
     },
     {
-      name: "project4",
-      description: "mobileapp",
-      imgurl: "images/portfolio/retrocam.jpg"
+      name: "BestBuy Storefront",
+      description:
+        "A MERN application that allows sign up/ login through jstokens and to query the BestBuy API for products. The user can search via category or via search bar and items to their cart",
+      imgurl: "images/portfolio/retrocam.jpg",
+      github: "https://github.com/jamesMeier/final",
+      site: "https://beststorebuy.herokuapp.com/"
     }
   ],
   testimonials: [
     {
-      description: "This is a sample testimonial",
-      name: "Some technical guy"
+      description:
+        "Diligent, works off the clock puts the company needs before his own",
+      name: "Jacob Lamont - Trilogy Lead Instructor"
     },
     {
-      description: "This is a sample testimonial",
-      name: "Some technical guy"
+      description:
+        "Can be held accountable for all tasks, a very reliable developer",
+      name: "Cherie Kloss - CEO Instastaff"
+    },
+    {
+      description: "Attendant and detailed with his work",
+      name: "Jeff Richards  - COO SnapMedTech"
+    },
+    {
+      description:
+        "An excellent resource for the students and his peers in around the classroom",
+      name: "Jack Storrs - Trilogy Instructor"
     }
   ]
 };
